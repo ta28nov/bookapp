@@ -1,0 +1,17 @@
+[
+  {
+    "username": "user1",
+    "password": "pass1",
+    "reviews": []
+  },
+  {
+    "username": "newUser",
+    "password": "newPass",
+    "reviews": [
+      {
+        "isbn": "1234567890",
+        "text": "Amazing book!"
+      }
+    ]
+  }
+]
